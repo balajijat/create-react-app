@@ -1,8 +1,7 @@
----
+balaji11.com
 id: getting-started
-title: Getting Started
----
-
+title: Getting Start 
+balaji11
 Create React App is an officially supported way to create single-page React
 applications. It offers a modern build setup with no configuration.
 
